@@ -1,0 +1,216 @@
+#p1text{
+    width: 80%;
+    
+    color: #fff;
+    margin:0 auto ;
+    position: relative;
+    z-index: 5;
+    margin-top: -50%;
+}
+
+
+#contaner{
+   overflow: auto;
+    width: 100vw;
+    
+}
+#img{
+    display: flex;
+    
+    width: 400vw;
+
+}
+#img1{
+    width: 100vw;
+}
+#img2{
+    width: 100vw;
+}
+#img3{
+    width: 100vw;
+}
+#img4{
+    width: 100vw;
+}
+#WhoAmI{
+
+}
+#learn{
+
+}
+#now{
+
+}
+#Myporpose{
+
+}
+
+#headertitle{
+    font-size: 50px;
+    
+}
+#button{
+    margin-left: 50%;
+    margin-top: -50%;
+}
+#button1{
+    
+}
+#button2{
+    margin-left: 3%;
+    margin-right: 3%;
+}
+#button3{
+    
+}
+
+
+
+
+
+
+
+
+
+#p2{
+    width: 80%;
+    
+    margin: 0 auto;
+    margin-top: 70%;
+}
+#title1{
+    font-size: 60px;
+   
+    margin-top: ;
+}
+#text1{
+    margin-left:100px ;
+    margin-top: 40px;
+}
+#module{
+    display: flex;
+    font-size: 40px;
+    text-align: center;
+    margin-left: 300px;
+    
+}
+#modulesm{
+    margin-top:-160px ;
+    margin-right: 260px;
+    font-size: 8px;
+    background-color: rgb(236, 236, 236);
+    float: right;
+    padding: 20px;
+}
+#module1{
+    margin:40px  ;
+    color: gray;
+
+}
+#module2{
+    margin: 40px;
+    color: gray;
+}
+#module3{
+    margin: 40px;
+    color: gray;
+}
+#module4{
+    margin: 40px;
+    color: gray;
+} 
+#tt{
+    border-right: 1px solid black ;
+    width: 650px;
+}
+#atext{
+    margin-top:-200px ;
+   margin-left:400px ;
+   
+}
+#aimg{
+    margin-left: 700px;
+    margin-top: -300px ;
+    
+}
+#btext{
+   margin-top:-200px ;
+   margin-left:400px ;
+  
+    
+    
+}
+#bimg{
+    margin-left: 800px;
+    margin-top:-300px ;
+    
+}
+#ctext{
+    margin-top:-200px ;
+   margin-left:400px ;
+   
+}
+#cimg{
+    margin-left: 700px;
+    margin-top: -300px ;
+    
+}
+#dtext{
+    margin-top:-200px ;
+   margin-left:400px ;
+   
+}
+#dimg{
+    margin-left: 700px;
+    margin-top: -300px ;
+    
+} 
+#a{
+    display: none;
+}
+#b{
+    display: none;
+}
+#c{
+    display: none;
+}
+#d{
+    display: none;
+}
+.moduletitle1{
+    
+    transform:rotate(90deg);
+    font-size: 150px;
+    margin-top: 100px;
+    margin-right:900px ;
+    
+    
+    color: rgb(207, 205, 205);
+    
+}
+#moduletitle1{
+    font-size: 300px;
+    margin-top: -260px;
+    margin-left:100px ;
+    
+}
+#moduletitle2{
+    font-size: 300px;
+    margin-top: -260px;
+    margin-left:100px ;
+    
+    
+}
+#moduletitle3{
+    font-size: 300px;
+    margin-top: -260px;
+    margin-left:100px ;
+    
+    
+}
+#moduletitle4{
+    font-size: 300px;
+    margin-top: -260px;
+    margin-left:100px ;
+    
+}
