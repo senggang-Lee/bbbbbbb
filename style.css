@@ -81,108 +81,102 @@
 #title1{
     font-size: 60px;
    
-    margin-top: ;
+    
 }
 #text1{
-    margin-left:100px ;
-    margin-top: 40px;
+   
+   
 }
 #module{
     display: flex;
     font-size: 40px;
     text-align: center;
-    margin-left: 300px;
+    margin-left: 20%;
     
 }
 #modulesm{
-    margin-top:-160px ;
-    margin-right: 260px;
+    margin-top:-10% ;
     font-size: 8px;
     background-color: rgb(236, 236, 236);
     float: right;
-    padding: 20px;
+    padding: 2%;
 }
 #module1{
-    margin:40px  ;
+    
     color: gray;
 
 }
 #module2{
-    margin: 40px;
+    margin-left: 10%;
     color: gray;
 }
 #module3{
-    margin: 40px;
+    margin-left: 10%;
     color: gray;
 }
 #module4{
-    margin: 40px;
+    margin-left: 10%;
     color: gray;
 } 
-#tt{
-    border-right: 1px solid black ;
-    width: 650px;
-}
+
 #atext{
-    margin-top:-200px ;
-   margin-left:400px ;
+    
    
 }
 #aimg{
-    margin-left: 700px;
-    margin-top: -300px ;
+    
     
 }
 #btext{
-   margin-top:-200px ;
-   margin-left:400px ;
+   
   
     
     
 }
 #bimg{
-    margin-left: 800px;
-    margin-top:-300px ;
+    
     
 }
 #ctext{
-    margin-top:-200px ;
-   margin-left:400px ;
+   
    
 }
 #cimg{
-    margin-left: 700px;
-    margin-top: -300px ;
     
 }
 #dtext{
-    margin-top:-200px ;
-   margin-left:400px ;
+    
    
 }
 #dimg{
-    margin-left: 700px;
-    margin-top: -300px ;
+    
     
 } 
 #a{
+    display: flex;
+    margin-top: -15%;
     display: none;
 }
 #b{
+    display: flex;
+    margin-top: -15%;
     display: none;
 }
 #c{
-    display: none;
+    display: flex;
+    margin-top: -15%;
+   
 }
 #d{
+    display: flex;
+    margin-top: -15%;
     display: none;
 }
 .moduletitle1{
     
     transform:rotate(90deg);
     font-size: 150px;
-    margin-top: 100px;
-    margin-right:900px ;
+    margin-right: 70%;
     
     
     color: rgb(207, 205, 205);
@@ -190,27 +184,97 @@
 }
 #moduletitle1{
     font-size: 300px;
-    margin-top: -260px;
-    margin-left:100px ;
+    margin-right: 20%;
+    margin-top: 10%;
     
 }
 #moduletitle2{
     font-size: 300px;
-    margin-top: -260px;
-    margin-left:100px ;
+    margin-right: 20%;
+    margin-top: 10%;
     
     
 }
 #moduletitle3{
     font-size: 300px;
-    margin-top: -260px;
-    margin-left:100px ;
+    margin-right: 20%;
+    margin-top: 10%;
     
     
 }
 #moduletitle4{
     font-size: 300px;
-    margin-top: -260px;
-    margin-left:100px ;
+    margin-right: 20%;
+    margin-top: 10%;
     
+}
+
+
+
+
+
+
+
+
+
+#p3{
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 20%;
+    
+}
+#ipt{
+    font-size: 60px;
+    border-bottom:1px solid black ;
+    width: 30%;
+    line-height: 90%;
+    padding-bottom: 3%;
+    
+}
+#ipte{
+    float: right;
+    margin-top: -10%;
+    
+}
+#container1{
+    overflow: auto;
+    width: 600px;
+    margin-left: 10%;
+    margin-top: 10%;
+    
+
+}
+#iptimg{
+    display: flex;
+    width: 8200px;
+}
+#text3{
+    
+    
+}
+#text2{
+    
+    color: white;
+}
+#date1{
+    font-size: 80px;
+    transform:rotate(90deg);
+    margin-left: 100%;
+    margin-top: -40%;
+    color: rgb(164, 164, 164);
+}
+#butbox{
+    
+   
+}
+#but1{
+    float: right;
+    margin-right: 28%;
+    margin-top: 20%;
+    
+}
+#but2{
+    float: left;
+    margin-top: 20%;
+   
 }
