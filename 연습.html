@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+       
+       
+        .iptimg1{
+            font-family: sans-serif;
+            width: 50%;
+            
+            
+            /* transform: translate(-50%, -50%); */
+            position: absolute;
+        }
+        img{
+            
+            
+            
+
+        }
+        #contant{
+            position: absolute;
+            
+           
+            color: #ffff;
+            
+            font-size: 28px;
+        }
+        .overlay{
+            position: absolute;
+            top: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            height: 50%;
+            width: 50%;
+            opacity: 0;
+            transition: .5s ease;
+            background-color: hsla(0, 0%, 50%, 0.9);
+            
+        }
+        .iptimg1 :hover.overlay{
+            opacity: 1;
+        }
+    </style>
+</head>
+<body>
+    <div class = iptimg1>
+        <img src="오깔1.png" width="600px">
+        <div class="overlay">
+            <div id="contant">hellow wold</div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,63 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #lksemndlknfl{
+            height: 1000px;
+        }
+        #aaa{
+            width: 100vw;
+            height: 100vw;
+           
+            background-color: rgb(101, 176, 101);
+            
+        }
+        #bbb{
+            width: 100vw;
+            height: 100vw;
+            background-color: rgb(142, 60, 60);
+
+        }
+        #ccc{
+            width: 100vw;
+            height: 100vw;
+            background-color: rgb(62, 62, 132);
+        }
+        
+            .p {
+  animation-duration: 1s;
+  animation-name: slidein;
+}
+
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
+        
+    </style>
+</head>
+<body>
+    <div id = lksemndlknfl></div>
+    <div id = aaa></div>
+    <div id = bbb></div>
+    <div id = ccc></div>
+    <script>
+        window.addEventListener('scroll', function(){
+            var nowscroll = document.documentElement.scrollTop;
+            if (nowscroll > 1000){document.querySelector('#p2').classList.add('p')}
+            
+        })
+    </script>
+</body>
+</html>
