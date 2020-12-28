@@ -55,6 +55,24 @@
 #img4{
     width: 100vw;
 }
+#text1-1-1{
+position: absolute;
+    z-index:100000 ;
+    color: #fff;
+    display: flex;
+}
+#text1-1{
+    width: 100vw;
+}
+#text1-2{
+    width: 100vw;
+}
+#text1-3{
+    width: 100vw;
+}
+#text1-4{
+    width: 100vw;
+}
 #WhoAmI{
 
 }
@@ -99,7 +117,7 @@
     width: 80%;
     height: 100%;
     margin: 0 auto;
-    margin-top: 70%;
+    margin-top: 50%;
 }
 #title1{
     font-size: 60px;
@@ -521,6 +539,18 @@
     padding-top:10% ;
     display: none;
 }
+#futter{
+    padding: 4%;
+    margin-top: 40%;
+    text-align: center;
+    background-color: rgb(156, 156, 156);
+    color: #fff;
+    text-align: center;
+    width: ;
+    height: ;
+    border-radius: ;
+}
+
 
 
 
